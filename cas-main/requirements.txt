@@ -8,7 +8,7 @@ Flask-SocketIO==4.3.1
 grpcio==1.46.3
 gunicorn==20.1.0
 numpy==1.22.4
-opencv-python 
+opencv-python-headless==4.5.5.62
 pandas==1.4.3
 pandas-compat==0.1.1
 pandocfilters==1.5.0
